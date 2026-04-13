@@ -38,12 +38,11 @@ Seeking opportunities as a **Data Analyst**, where I can apply data-driven solut
 ---
 
 ## 📈 GitHub Stats
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default)
-
+![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfrohlichh)
 ---
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/letícia-fröhlich-15758720b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/letícia-fröhlich-15758720b)
 
 ---
 
