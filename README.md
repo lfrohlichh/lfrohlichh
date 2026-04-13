@@ -43,7 +43,7 @@ Seeking opportunities as a **Data Analyst**, where I can apply data-driven solut
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/letícia-fröhlich-15758720b)
+[LinkedIn](https://www.linkedin.com/in/letícia-fröhlich-15758720b)
 
 ---
 
