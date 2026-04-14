@@ -1,4 +1,4 @@
-# 👩‍⚕️ Letícia Fröhlich  
+# ⚛️ Letícia Fröhlich  
 **Medical Physicist → Data Analyst (in transition)**  
 
 ---
